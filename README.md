@@ -1,14 +1,14 @@
 # powerusercurve
 
 Analise das Power User Curve da utilização de app pelos usuários Premium.
-O codigo pode ser visualizado tanto pelo notebook(que ja contem todos os resultados e visualizações) quando executando o código em um interpretador local. 
+O codigo pode ser visualizado tanto pelo notebook .ipynb(que ja contem todos os resultados e visualizações) quando executando o código .py em um interpretador local. 
 Pode haver a necessidade de instalar algum dos pacotes utilizados dependendo da versão do Python(Foi desenvolvido com 3.8)
 
 ![Pwr1](https://github.com/lucasviniciom/powerusercurve/blob/main/PowerUserCurves1.png)
 ![Pwr2](https://github.com/lucasviniciom/powerusercurve/blob/main/PowerUserCurves2.png)
 ![Pwr3](https://github.com/lucasviniciom/powerusercurve/blob/main/PowerUserCurves3.png)
 
-#Interpretações e conclusões
+# Interpretações e conclusões
 
 É importante primeiramente lembrar que os usuários analisados são apenas os premium(assinantes). Além disso, apenas este indicador pode gerar interpretações equivocadas, visto que seria necessario saber quanto tempo o usuário passou dentro do aplicativo e se realizou quaisquer ações para confirmar a atividade.
 
